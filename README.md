@@ -1,2 +1,2 @@
-# Data-Science-Coursera
+# DataScienceCoursera
 Class interaction
